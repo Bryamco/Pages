@@ -1,0 +1,49 @@
+*{
+    /* border: 1px solid red;*/
+ }
+ html {
+     font-family:Verdana, Geneva, Tahoma, sans-serif
+ }
+ 
+ body {
+     margin: 0;
+     background-color: #efefef;
+ }
+ 
+ header {
+     background-color: #ffffff;
+     color: white;
+     padding: 3rem 2rem;
+     text-align: center;
+ }
+ 
+ header h1{
+     font-size: 2rem;
+     text-align: center;
+ }
+ 
+ .container{
+     width: 400px;
+     margin-inline: auto;
+ }
+ 
+ section article{
+     transition: all 0.3s ease;
+     background-color: #fff;
+     margin: 1rem 0;
+     border-radius: 0.5rem;
+     padding: 0.25rem 0;
+     cursor: pointer;
+ }
+ .formulario{
+    transition: all 0.3s ease;
+     background-color: #dcbbbb;
+     margin: 2rem 0;
+     border-radius: 0.10rem;
+     padding: 0.35rem 0;
+
+ }
+ .deportes{
+    text-align: center;
+ }
+ 
